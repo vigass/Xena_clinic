@@ -4,7 +4,7 @@ TCGA's clinical data format is complex and not easily extracted directly, so we 
 
 With the Xena GDC Hub, you can avoid the need to manually organize and clean clinical data directly from the TCGA website, increasing productivity.
 
-Xena GDC hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+Xena GDC Hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
 ## Code Explanation
 
@@ -79,6 +79,7 @@ Xena GDC hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahu
 ### 7. Save Processed Data
 - The final processed data (`pd`) is saved as an R data file (`pd.rdata`) using `save()`.
 
+------
 
 ## 数据下载说明
 
