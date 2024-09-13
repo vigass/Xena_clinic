@@ -2,6 +2,8 @@
 
 The clinical information format of TCGA is complex and not easy to extract directly, so we chose to use the off-the-shelf TCGA clinical data provided by the UCSC Xena platform. Xena GDC Hub provides standardized data from TCGA for users to download and analyze.
 
+Xena GDC hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+
 ## Code Explanation
 
 ### 1. Setup
