@@ -11,12 +11,12 @@
 - **Clinical data**: 
   The clinical data is loaded from a `.tsv.gz` file (`TCGA-ESCA.GDC_phenotype.tsv.gz`) using `fread()`.
 
-  `TCGA-ESCA.GDC_phenotype.tsv.gz`:download by <https://xenabrowser.net/datapages/?dataset=TCGA-ESCA.GDC_phenotype.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443>
+  `TCGA-ESCA.GDC_phenotype.tsv.gz`:download by (https://xenabrowser.net/datapages/?dataset=TCGA-ESCA.GDC_phenotype.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
   
 - **Survival data**: 
   The survival data is loaded from a `.tsv` file (`TCGA-ESCA.survival.tsv`) using `read.delim()`.
 
-  `TCGA-ESCA.survival.tsv`: download by <https://xenabrowser.net/datapages/?dataset=TCGA-ESCA.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443>
+  `TCGA-ESCA.survival.tsv`: download by (https://xenabrowser.net/datapages/?dataset=TCGA-ESCA.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
 ### 3. Preliminary Exploration
 - **Column names**: 
