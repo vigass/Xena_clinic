@@ -6,7 +6,7 @@ With the Xena GDC Hub, you can avoid the need to manually organize and clean cli
 
 Xena GDC Hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
-## Clinic.R Explanation
+## *Clinic.R* Explanation
 
 ### 1. Setup
 - **Clear workspace and set working directory**: 
@@ -88,7 +88,7 @@ TCGA 的临床数据格式复杂且不易直接提取，因此我们使用 UCSC 
 
 借助 Xena GDC Hub，您无需直接从 TCGA 网站手动组织和清理临床数据，从而提高工作效率。
 
-## Clinic.R解释
+## *Clinic.R* 解释
 
 ### 1. 设置
 - **清空工作空间并设置工作目录**：
