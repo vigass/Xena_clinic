@@ -1,3 +1,7 @@
+## Data download instructions
+
+The clinical information format of TCGA is complex and not easy to extract directly, so we chose to use the off-the-shelf TCGA clinical data provided by the UCSC Xena platform. Xena GDC Hub provides standardized data from TCGA for users to download and analyze.
+
 ## Code Explanation
 
 ### 1. Setup
@@ -71,6 +75,10 @@
 ### 7. Save Processed Data
 - The final processed data (`pd`) is saved as an R data file (`pd.rdata`) using `save()`.
 
+
+## 数据下载说明
+
+TCGA 的临床信息格式复杂且不易直接提取，因此我们选择使用 UCSC Xena 平台提供的现成的 TCGA 临床数据。Xena GDC Hub 提供了来自 TCGA 的标准化数据，方便用户下载并进行分析。
 
 ## 代码解释
 
