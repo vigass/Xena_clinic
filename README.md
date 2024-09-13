@@ -1,6 +1,8 @@
 ## Data download instructions
 
-The clinical information format of TCGA is complex and not easy to extract directly, so we chose to use the off-the-shelf TCGA clinical data provided by the UCSC Xena platform. Xena GDC Hub provides standardized data from TCGA for users to download and analyze.
+TCGA's clinical data format is complex and not easily extracted directly, so we used standardized data provided by the UCSC Xena platform. **Xena GDC Hub** is a data integration tool within the UCSC Xena platform designed to provide users with genomic and clinical data from TCGA, GDC, and other public databases. Through Xena GDC Hub, users can conveniently download organized and standardized TCGA clinical data, avoiding manual processing of complex raw data.
+
+With the Xena GDC Hub, you can avoid the need to manually organize and clean clinical data directly from the TCGA website, increasing productivity.
 
 Xena GDC hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
@@ -80,7 +82,10 @@ Xena GDC hub : (https://xenabrowser.net/datapages/?host=https%3A%2F%2Fgdc.xenahu
 
 ## 数据下载说明
 
-TCGA 的临床信息格式复杂且不易直接提取，因此我们选择使用 UCSC Xena 平台提供的现成的 TCGA 临床数据。Xena GDC Hub 提供了来自 TCGA 的标准化数据，方便用户下载并进行分析。
+TCGA 的临床数据格式复杂且不易直接提取，因此我们使用 UCSC Xena 平台提供的标准化数据。**Xena GDC Hub** 是 UCSC Xena 平台中的一个数据集成工具，专门为用户提供来自 TCGA、GDC 和其他公共数据库的基因组和临床数据。通过 Xena GDC Hub，用户可以方便地下载经过整理和标准化的 TCGA 临床数据，避免手动处理复杂的原始数据。
+
+
+借助 Xena GDC Hub，您无需直接从 TCGA 网站手动组织和清理临床数据，从而提高工作效率。
 
 ## 代码解释
 
